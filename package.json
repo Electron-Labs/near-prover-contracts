@@ -1,0 +1,21 @@
+{
+  "name": "near-prover-contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.19.1",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@openzeppelin/contracts-upgradeable": "^4.8.1",
+    "chai": "^4.2.0",
+    "fs": "^0.0.1-security",
+    "bs58": "^5.0.0",
+    "web3": "^1.8.1",
+    "near-api-js": "^1.1.0"
+  }
+}
