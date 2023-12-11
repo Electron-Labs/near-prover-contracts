@@ -12,7 +12,7 @@ Light Clients work by tracking the consensus which requires checking validator s
 
 ## System Architecture using ZK Light Client
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="image.png" alt=""><figcaption></figcaption></figure>
 
 Note the changes compared to the System Architecture diagram from the home page. The fisherman is no longer required, and the off-chain light client is replaced with on-chain ZK light client.
 
